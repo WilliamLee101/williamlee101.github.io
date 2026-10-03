@@ -84,7 +84,7 @@ function AppContent() {
 
 function App() {
   return (
-    <Router basename="/profolio">
+    <Router basename="/">
       <AppContent />
     </Router>
   );

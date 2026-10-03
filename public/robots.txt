@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://williamlee101.github.io/profolio/sitemap.xml
+Sitemap: https://williamlee101.github.io/sitemap.xml
