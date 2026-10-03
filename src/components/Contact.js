@@ -24,7 +24,7 @@ const Contact = () => {
           GitHub
         </a>
         <a
-          href="https://scholar.google.com/citations?user=REPLACE_WITH_YOUR_ID" // Replace with your Google Scholar profile URL
+          href="https://scholar.google.com/citations?user=vbMUW88AAAAJ&hl=en"
           target="_blank"
           rel="noopener noreferrer"
           className="social-button scholar"

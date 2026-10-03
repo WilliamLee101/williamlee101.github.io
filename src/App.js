@@ -64,6 +64,13 @@ function AppContent() {
               {label}
             </Link>
           ))}
+          <a
+            href={`${process.env.PUBLIC_URL}/CV.pdf`}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            CV
+          </a>
         </nav>
       </header>
 
